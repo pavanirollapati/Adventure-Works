@@ -6,6 +6,7 @@ The AdventureWorks dataset is a comprehensive sample dataset provided by Microso
 "Analyzed the AdventureWorks dataset for insights into sales, product performance, and customer trends. Performed data cleaning, SQL queries, and visualizations to uncover key patterns. Created dashboards and conducted statistical analyses to support decision-making and enhance business intelligence."
 
 Dataset Exploration: Loaded and reviewed the AdventureWorks dataset structure, including tables, relationships, and schemas.
+
 Data Cleaning: Identified and handled missing or inconsistent data in key tables.
 SQL Queries: Wrote and executed queries to analyze sales trends, customer demographics, and product performance.
 Data Integration: Joined relevant tables to create consolidated views for analysis.
